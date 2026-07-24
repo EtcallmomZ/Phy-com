@@ -11,7 +11,7 @@ int main()
 
     switch (grade)
     {
-    case 'A': printf("Genius");
+    case 'A': printf("Genius"); 
     break;
     case 'B': printf("Good");
     break;
