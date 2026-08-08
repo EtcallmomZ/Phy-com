@@ -2,7 +2,6 @@
 
 int main()
 {
-
     unsigned int myNumbers[5],index;
     int i;
     
