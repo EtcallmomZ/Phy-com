@@ -20,7 +20,7 @@ int main()
     {
         if (tolower(text[i]) == ans)
         {
-           position[count] = i + 1;
+           position[count] = i++; // i + 1 = position that alphabet are in
            count++;
         }
         
